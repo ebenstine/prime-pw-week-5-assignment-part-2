@@ -1,0 +1,19 @@
+.header{
+    background-color:rgb(6, 7, 51);
+    color:rgb(118, 187, 214);
+    text-align: center;
+    font-family: monospace;
+
+}
+.main{
+    background-color: lightgrey;
+    padding: 1em;
+    margin-top: 600px;
+    font-family: monospace;
+}
+body{
+    background-image: url(record.png);
+    background-repeat: repeat;
+
+}
+}
